@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_2133,w_3200/https%3A%2F%2Fpippenainteasy.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2016%2F04%2F1090010016.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+  
+  
+  h3{color:white;
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+  #logos{text-align:right}
+
+  #h{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+  h2{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+h4{font-size: 30px;
+    font-family: 'Audiowide', cursive;
+color: white;
+opacity: 0.5;
+
+
+}
+
+h2{font-size: xx-large;
+    font-family: 'Audiowide', cursive;
+}
+
+#jersey{padding-left:20px;}
+
+span{color:white;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 25px;
+}
+
+form{color:white;
+    font-family: 'Vast Shadow', cursive;
+}
+
+
+  

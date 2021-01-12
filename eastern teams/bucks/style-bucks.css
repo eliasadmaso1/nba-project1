@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://dairylandexpress.com/wp-content/uploads/getty-images/2018/04/946638886-milwaukee-bucks-v-boston-celtics-game-one.jpg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  h3{color:white;
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+  #logos{text-align:right}
+
+  #h{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+  h2{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+h4{font-size: 30px;
+    font-family: 'Audiowide', cursive;
+color: white;
+opacity: 0.5;
+
+
+}
+
+h2{font-size: xx-large;
+    font-family: 'Audiowide', cursive;
+}
+
+#jersey{padding-left:20px;}
+
+span{color:white;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 25px;
+}
+
+form{color:white;
+    font-family: 'Vast Shadow', cursive;
+}
+
+
+  

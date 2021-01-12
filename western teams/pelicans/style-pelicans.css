@@ -1,0 +1,30 @@
+body {
+    background-image: url("/images/pelicans/pelicans\ background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  h3{color:white;}
+
+  #logos{text-align:right}
+
+  #h{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+  h2{background:black;
+    color: white;
+    font-size: 65px;
+    padding-left: 10px;
+    opacity: 0.5;}
+
+h4{font-size: xx-large;
+color: white;}
+
+h2{font-size: xx-large;}
+  

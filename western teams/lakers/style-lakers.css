@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://static01.nyt.com/images/2020/12/04/sports/04nba-lakers-1/merlin_175567773_b9340683-0222-4018-848c-d8000d318261-superJumbo.jpg?quality=90&auto=webp");
+}
+    
+  
+  
+  
+    
+h1{background:black;
+    color: white;
+    font-size: 45px;
+    padding-left: 10px;
+    opacity: 0.5;
+    font-family: 'Audiowide', cursive;
+    border-radius: 15px;
+  }
+
+h2{background:black;
+    color: white;
+    font-size: 45px;
+    padding-left: 10px;
+    opacity: 0.5;
+    font-family: 'Audiowide', cursive;
+    border-radius: 15px;
+  }
+
+h3{background:black;
+    color: white;
+    font-size: 45px;
+    padding-left: 10px;
+    opacity: 0.5;
+    font-family: 'Audiowide', cursive;
+    border-radius: 15px;
+  }
+
+h4{background:black;
+    color: white;
+    font-size: 45px;
+    padding-left: 10px;
+    opacity: 0.5;
+    font-family: 'Audiowide', cursive;
+    border-radius: 15px;
+  }
+  
+  
+span{font-family: 'Audiowide', cursive;
+    color:white;
+    font-size: 30px;}
+
+
+#form{
+  color: white;
+  font-size: 15px;
+  font-family: 'Audiowide', cursive;
+  border-radius: 15px;
+  text-align: right;
+}
+
+a{color:white;
+  text-decoration: none;
+  font-family: 'Audiowide', cursive;
+  font-size: 20px;}
+  

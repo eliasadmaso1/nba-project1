@@ -1,0 +1,197 @@
+
+
+h1 {
+  background: black;
+    color: white;
+    font-size: 65px;
+    padding-left: 559px;
+    opacity: 0.5;
+    font-family: 'Audiowide', cursive;
+    border: white solid 2px;
+    border-radius: 15px;
+}
+
+
+h2 {text-align: left;
+  margin-bottom: 2;
+  background-color: white;
+  margin-left: 477;
+  border: black solid 2px;
+  padding-top: 4;
+  padding-bottom: 4;
+  width: fit-content;
+  border-radius: 15px;
+ 
+}
+  
+
+
+
+h3{background:black;
+  color: white;
+  font-size: 45px;
+  padding-left: 10px;
+  opacity: 0.5;
+  font-family:  'Audiowide', cursive;
+  padding-left: 20px;
+  border-radius: 15px;
+  border:white solid 2px;
+  width: 407px;
+
+}
+
+
+h4{background:black;
+  color: white;
+  font-size: 45px;
+  margin-left: 1251px;
+  opacity: 0.5;
+  font-family: 'Audiowide', cursive;
+  text-align: right;
+  border-radius: 15px;
+  padding-right: 20px;
+  border:white solid 2px;
+}
+
+
+form{font-family: 'Audiowide', cursive;
+margin-top: 15px;}
+
+#east{color:white;
+  font-family:  'Bowlby One SC', cursive;
+  text-align: right;
+}
+
+span {
+  color: white;
+  font-family: 'Audiowide';
+  background-color: black;
+  border:2px  solid white;
+  border-radius: 15px;
+  opacity: 0.5;
+  font-size: 13;
+}
+
+a{color:white;
+  text-decoration: none;
+  font-family: 'Audiowide', cursive;
+  font-size: 20px;
+  margin-right: 5px;
+
+}
+
+#eastteams{text-align: right;}
+
+/* menu */
+
+.manu{
+  width: 681px;
+    background-color: black;
+    opacity: 0.5;
+    border: solid 2px white;
+    text-align: center;
+    margin-left:978px;
+    border-radius: 15px;
+}
+
+
+
+.manu ul{
+  height: 30px;
+  list-style: none;
+  width:760;
+  margin: 0 auto;
+}
+  
+
+
+.manu ul li{
+  width:150px;
+  height:30px;
+  
+  line-height:30px;
+  text-align: center;
+  float:left;
+  
+  
+}
+
+.menu ul li a{
+  font-family: 'Audiowide', cursive;
+  color:white;
+  text-decoration: none;
+
+
+}
+
+/* shirts */
+#jersey{margin-left: 12;
+  margin-bottom: 12;
+
+}
+
+#shirt{margin-left: 12;
+  margin-bottom: 12;
+
+}
+
+#hoodie{margin-left: 12;
+  margin-bottom: 12;
+
+}
+
+#form{float: right;}
+
+ul { list-style-type:none; 
+   padding:0;
+    margin:10; }
+
+  
+  ul#nav li { background-color: #fff; 
+    float:left;
+   }
+
+  
+  ul#nav li a { display:block;
+     padding: 5px 10px; 
+     color: #000; text-decoration:none;
+      border-bottom:1px solid #ccc; }
+
+  
+  ul#nav li a:hover { background-color: #aaa; }
+
+  
+  ul#nav li ul li { float:none; }
+  
+  ul#nav li ul { position:absolute; 
+    display:none; 
+  }
+
+  
+  ul#nav li:hover ul { display:block; }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
